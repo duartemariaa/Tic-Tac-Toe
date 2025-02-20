@@ -9,4 +9,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Tic-Tac-Toe
-
+<div>
+  <img src="https://github.com/user-attachments/assets/58d7767a-171a-4bb3-929f-a070ee6c204d">
+</div>
